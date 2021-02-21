@@ -60,7 +60,7 @@ Nginx 目录： `/etc/nginx`
 
 您可以使用我的 搬瓦工 AFF 购买 VPS
 
-https://bandwagonhost.com/aff.php?aff=63939
+https://bwh88.net/cart.php?gid=1.aff.php?aff=63939
 
 支持通过 Telegram MugglePay 接受虚拟货币捐赠。
 
